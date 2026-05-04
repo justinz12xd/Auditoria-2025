@@ -1,0 +1,2 @@
+lineas_entrada,lineas_salida,lineas_removidas_anomalias,lineas_removidas_duplicados,skus_con_promos,skus_con_promos_no_monetizadas,brecha_ingreso_promos_total,ingreso_esperado_promos_total,ingreso_estimado_promos_monetizados_total
+332.0,265.0,10.0,57.0,31.0,21.0,455.2052941176471,1098.4609656506054,643.2556715329584

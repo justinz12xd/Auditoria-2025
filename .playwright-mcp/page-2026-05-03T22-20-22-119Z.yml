@@ -1,0 +1,60 @@
+- generic [ref=e2]:
+  - generic [ref=e11]:
+    - generic [ref=e13]:
+      - paragraph [ref=e17]: Tema
+      - generic [ref=e19]:
+        - generic [ref=e20]:
+          - generic [ref=e21]: Claro
+          - combobox "Selected Claro. Tema" [ref=e23]
+        - img "open" [ref=e25]
+    - heading "Audit Pro 2025" [level=2] [ref=e31]
+    - paragraph [ref=e36]: Filtros globales
+    - generic [ref=e38]:
+      - paragraph [ref=e42]: Mes
+      - generic [ref=e44]:
+        - generic [ref=e45]:
+          - generic [ref=e46]: Todo 2025
+          - combobox "Selected Todo 2025. Mes" [ref=e48]
+        - img "open" [ref=e50]
+    - generic [ref=e53]:
+      - generic [ref=e54]:
+        - paragraph [ref=e57]: Producto
+        - button "Help for Producto" [ref=e61] [cursor=pointer]:
+          - img [ref=e62]
+      - generic [ref=e66]:
+        - generic [ref=e67]:
+          - generic [ref=e68]: Todos los productos
+          - combobox "Selected Todos los productos. Producto" [ref=e70]
+        - img "open" [ref=e72]
+    - generic [ref=e75]:
+      - paragraph [ref=e79]: Filtrar por promociones
+      - generic [ref=e81]:
+        - generic [ref=e82]:
+          - generic [ref=e83]: Todos
+          - combobox "Selected Todos. Filtrar por promociones" [ref=e85]
+        - img "open" [ref=e87]
+  - generic [ref=e91]:
+    - generic [ref=e96]:
+      - generic [ref=e97]: Auditoría de Promociones 2025
+      - generic [ref=e98]: Vista ejecutiva de ingresos reales, promociones y brecha estimada
+    - heading "Resumen" [level=3] [ref=e103]:
+      - text: Resumen
+      - generic [ref=e104]:
+        - link "Link to heading":
+          - /url: "#resumen"
+          - img
+    - paragraph [ref=e137]: La brecha es la diferencia entre el ingreso que las promociones podrían haber aportado y lo efectivamente monetizado según ventas.
+    - heading "Detalle por producto" [level=3] [ref=e147]:
+      - text: Detalle por producto
+      - generic [ref=e148]:
+        - link "Link to heading":
+          - /url: "#detalle-por-producto"
+          - img
+    - generic [ref=e158]:
+      - paragraph [ref=e162]: Prioridad
+      - generic [ref=e164]:
+        - generic [ref=e165]:
+          - generic [ref=e166]: Todas
+          - combobox "Selected Todas. Prioridad" [ref=e168]
+        - img "open" [ref=e170]
+    - paragraph [ref=e182]: Ordenado por mayor brecha de ingreso (USD), luego por mayor % no monetizada.

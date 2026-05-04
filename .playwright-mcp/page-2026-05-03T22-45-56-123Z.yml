@@ -1,0 +1,10 @@
+- generic [ref=e8]:
+  - generic [ref=e15]:
+    - generic [ref=e18]:
+      - textbox "Usuario" [ref=e23]
+      - textbox "Clave" [ref=e28]
+    - generic [ref=e30]:
+      - button "INGRESAR" [disabled]:
+        - generic: INGRESAR
+  - img "refresh" [ref=e31]: 
+  - paragraph [ref=e32]: Version 1.1.196

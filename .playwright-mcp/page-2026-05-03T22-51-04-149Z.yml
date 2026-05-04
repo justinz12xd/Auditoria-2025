@@ -1,0 +1,39 @@
+- generic [ref=e4]:
+  - text:   
+  - generic [ref=e1821]:
+    - generic [ref=e1826]:
+      - button "arrow round-back" [ref=e1828] [cursor=pointer]:
+        - img "arrow round-back" [ref=e1830]: 
+      - generic [ref=e1833]: Ingresos/Egresos
+      - button "Caja" [ref=e1835] [cursor=pointer]:
+        - generic [ref=e1836]: Caja
+    - generic [ref=e1839]:
+      - generic [ref=e1845]:
+        - generic [ref=e1849]:
+          - generic [ref=e1850]: MOVIMIENTOS
+          - generic [ref=e1851]:
+            - generic [ref=e1852]: Domingo, 03 de Mayo del 2026
+            - button "MOVIMIENTOS" [ref=e1853] [cursor=pointer]
+        - generic [ref=e1856]:
+          - paragraph [ref=e1857]: TOTAL
+          - paragraph [ref=e1858]:
+            - strong [ref=e1859]: $
+            - text: "0"
+      - generic [ref=e1862]:
+        - generic:
+          - button "arrow up INGRESO" [ref=e1863] [cursor=pointer]:
+            - generic [ref=e1864]:
+              - img "arrow up": 
+              - text: INGRESO
+          - button "arrow down EGRESO" [ref=e1865] [cursor=pointer]:
+            - generic [ref=e1866]:
+              - img "arrow down": 
+              - text: EGRESO
+          - button "print" [ref=e1867] [cursor=pointer]:
+            - generic [ref=e1868]:
+              - img "print": 
+      - alert [ref=e1872]:
+        - strong [ref=e1873]: Aviso
+        - text: No se han registrado movimientos en la fecha 2026-05-03. Para realizar un nuevo movimiento dar click
+        - strong [ref=e1875]: AQUI
+        - text: .

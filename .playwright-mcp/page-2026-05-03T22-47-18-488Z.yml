@@ -1,0 +1,345 @@
+- generic [ref=e4]:
+  - text:   
+  - generic [ref=e150]:
+    - generic [ref=e155]:
+      - button "arrow round-back" [ref=e157] [cursor=pointer]:
+        - img "arrow round-back" [ref=e159]: 
+      - generic [ref=e162]: Productos/Servicios
+      - generic [ref=e163]:
+        - generic [ref=e165]:
+          - text: 
+          - searchbox "Nombre / Codigo" [ref=e167]
+        - button "apps" [ref=e168] [cursor=pointer]:
+          - img "apps" [ref=e170]: 
+        - button "Buscar" [ref=e171] [cursor=pointer]:
+          - generic [ref=e172]: Buscar
+        - button "menu" [ref=e173] [cursor=pointer]:
+          - generic [ref=e174]:
+            - img "menu": 
+    - grid [ref=e179]:
+      - row "Codigo Nombre Iva Precio Stock grid" [ref=e180]:
+        - columnheader "Codigo" [ref=e181]
+        - columnheader "Nombre" [ref=e182]
+        - columnheader "Iva" [ref=e183]
+        - columnheader "Precio" [ref=e184]
+        - columnheader "Stock" [ref=e185]
+        - columnheader "grid" [ref=e186]:
+          - img "grid" [ref=e188] [cursor=pointer]: 
+      - row "C100 CYLIANE BARRA INTIMA 100G SI $ 12 (Inc. imp) 7 star menu" [ref=e189]:
+        - gridcell "C100" [ref=e190]
+        - gridcell "CYLIANE BARRA INTIMA 100G" [ref=e191]:
+          - paragraph [ref=e192]: CYLIANE BARRA INTIMA 100G
+        - gridcell "SI" [ref=e193]
+        - gridcell "$ 12 (Inc. imp)" [ref=e194]:
+          - paragraph [ref=e195]:
+            - text: $ 12
+            - text: (Inc. imp)
+        - gridcell "7" [ref=e196]
+        - gridcell "star menu" [ref=e197]:
+          - img "star" [ref=e198] [cursor=pointer]: 
+          - img "menu" [ref=e199] [cursor=pointer]: 
+      - row "05990 EUROCLIN SOL TOPICA 1%| FCO*30ML(ANT) NO $ 6.75 0 star menu" [ref=e200]:
+        - gridcell "05990" [ref=e201]
+        - gridcell "EUROCLIN SOL TOPICA 1%| FCO*30ML(ANT)" [ref=e202]:
+          - paragraph [ref=e203]: EUROCLIN SOL TOPICA 1%| FCO*30ML(ANT)
+        - gridcell "NO" [ref=e204]
+        - gridcell "$ 6.75" [ref=e205]:
+          - paragraph [ref=e206]: $ 6.75
+        - gridcell "0" [ref=e207]
+        - gridcell "star menu" [ref=e208]:
+          - img "star" [ref=e209] [cursor=pointer]: 
+          - img "menu" [ref=e210] [cursor=pointer]: 
+      - row "13638 KETOCON CAP 200MG CAJ*10 NO $ 0.3168 27 star menu" [ref=e211]:
+        - gridcell "13638" [ref=e212]
+        - gridcell "KETOCON CAP 200MG CAJ*10" [ref=e213]:
+          - paragraph [ref=e214]: KETOCON CAP 200MG CAJ*10
+        - gridcell "NO" [ref=e215]
+        - gridcell "$ 0.3168" [ref=e216]:
+          - paragraph [ref=e217]: $ 0.3168
+        - gridcell "27" [ref=e218]
+        - gridcell "star menu" [ref=e219]:
+          - img "star" [ref=e220] [cursor=pointer]: 
+          - img "menu" [ref=e221] [cursor=pointer]: 
+      - row "PG-003 PERSPI-GUARD WIPES X 25 SI $ 16 (Inc. imp) 3 star menu" [ref=e222]:
+        - gridcell "PG-003" [ref=e223]
+        - gridcell "PERSPI-GUARD WIPES X 25" [ref=e224]:
+          - paragraph [ref=e225]: PERSPI-GUARD WIPES X 25
+        - gridcell "SI" [ref=e226]
+        - gridcell "$ 16 (Inc. imp)" [ref=e227]:
+          - paragraph [ref=e228]:
+            - text: $ 16
+            - text: (Inc. imp)
+        - gridcell "3" [ref=e229]
+        - gridcell "star menu" [ref=e230]:
+          - img "star" [ref=e231] [cursor=pointer]: 
+          - img "menu" [ref=e232] [cursor=pointer]: 
+      - row "500001 5-Fluorouracilo 5% 30g NO $ 18.2 0 star menu" [ref=e233]:
+        - gridcell "500001" [ref=e234]
+        - gridcell "5-Fluorouracilo 5% 30g" [ref=e235]:
+          - paragraph [ref=e236]: 5-Fluorouracilo 5% 30g
+        - gridcell "NO" [ref=e237]
+        - gridcell "$ 18.2" [ref=e238]:
+          - paragraph [ref=e239]: $ 18.2
+        - gridcell "0" [ref=e240]
+        - gridcell "star menu" [ref=e241]:
+          - img "star" [ref=e242] [cursor=pointer]: 
+          - img "menu" [ref=e243] [cursor=pointer]: 
+      - row "CON253 AC LAC BABY 200ML SI $ 6.21 (Inc. imp) 1 star menu" [ref=e244]:
+        - gridcell "CON253" [ref=e245]
+        - gridcell "AC LAC BABY 200ML" [ref=e246]:
+          - paragraph [ref=e247]: AC LAC BABY 200ML
+        - gridcell "SI" [ref=e248]
+        - gridcell "$ 6.21 (Inc. imp)" [ref=e249]:
+          - paragraph [ref=e250]:
+            - text: $ 6.21
+            - text: (Inc. imp)
+        - gridcell "1" [ref=e251]
+        - gridcell "star menu" [ref=e252]:
+          - img "star" [ref=e253] [cursor=pointer]: 
+          - img "menu" [ref=e254] [cursor=pointer]: 
+      - row "CON024 AC-LAC JABON 90 g SI $ 3.45 (Inc. imp) 0 star menu" [ref=e255]:
+        - gridcell "CON024" [ref=e256]
+        - gridcell "AC-LAC JABON 90 g" [ref=e257]:
+          - paragraph [ref=e258]: AC-LAC JABON 90 g
+        - gridcell "SI" [ref=e259]
+        - gridcell "$ 3.45 (Inc. imp)" [ref=e260]:
+          - paragraph [ref=e261]:
+            - text: $ 3.45
+            - text: (Inc. imp)
+        - gridcell "0" [ref=e262]
+        - gridcell "star menu" [ref=e263]:
+          - img "star" [ref=e264] [cursor=pointer]: 
+          - img "menu" [ref=e265] [cursor=pointer]: 
+      - row "CON023 AC-LAC LOCION 200ml SI $ 6 (Inc. imp) 0 star menu" [ref=e266]:
+        - gridcell "CON023" [ref=e267]
+        - gridcell "AC-LAC LOCION 200ml" [ref=e268]:
+          - paragraph [ref=e269]: AC-LAC LOCION 200ml
+        - gridcell "SI" [ref=e270]
+        - gridcell "$ 6 (Inc. imp)" [ref=e271]:
+          - paragraph [ref=e272]:
+            - text: $ 6
+            - text: (Inc. imp)
+        - gridcell "0" [ref=e273]
+        - gridcell "star menu" [ref=e274]:
+          - img "star" [ref=e275] [cursor=pointer]: 
+          - img "menu" [ref=e276] [cursor=pointer]: 
+      - row "FA-1002 ACIDO TRANEXAMICO 5% MAS NIACINAMIDA 5% CRMGEL 20G NO $ 25 0 star menu" [ref=e277]:
+        - gridcell "FA-1002" [ref=e278]
+        - gridcell "ACIDO TRANEXAMICO 5% MAS NIACINAMIDA 5% CRMGEL 20G" [ref=e279]:
+          - paragraph [ref=e280]: ACIDO TRANEXAMICO 5% MAS NIACINAMIDA 5% CRMGEL 20G
+          - paragraph
+        - gridcell "NO" [ref=e281]
+        - gridcell "$ 25" [ref=e282]:
+          - paragraph [ref=e283]: $ 25
+        - gridcell "0" [ref=e284]
+        - gridcell "star menu" [ref=e285]:
+          - img "star" [ref=e286] [cursor=pointer]: 
+          - img "menu" [ref=e287] [cursor=pointer]: 
+      - row "FA-1350 ACNIPOP FACE WASH SI $ 16.39 (Inc. imp) 0 star menu" [ref=e288]:
+        - gridcell "FA-1350" [ref=e289]
+        - gridcell "ACNIPOP FACE WASH" [ref=e290]:
+          - paragraph [ref=e291]: ACNIPOP FACE WASH
+          - paragraph
+        - gridcell "SI" [ref=e292]
+        - gridcell "$ 16.39 (Inc. imp)" [ref=e293]:
+          - paragraph [ref=e294]:
+            - text: $ 16.39
+            - text: (Inc. imp)
+        - gridcell "0" [ref=e295]
+        - gridcell "star menu" [ref=e296]:
+          - img "star" [ref=e297] [cursor=pointer]: 
+          - img "menu" [ref=e298] [cursor=pointer]: 
+      - row "FA-1338 ACNOTIN 10MG USO DCTR NO $ 0.8073333 0 star menu" [ref=e299]:
+        - gridcell "FA-1338" [ref=e300]
+        - gridcell "ACNOTIN 10MG USO DCTR" [ref=e301]:
+          - paragraph [ref=e302]: ACNOTIN 10MG
+          - paragraph [ref=e303]: USO DCTR
+        - gridcell "NO" [ref=e304]
+        - gridcell "$ 0.8073333" [ref=e305]:
+          - paragraph [ref=e306]: $ 0.8073333
+        - gridcell "0" [ref=e307]
+        - gridcell "star menu" [ref=e308]:
+          - img "star" [ref=e309] [cursor=pointer]: 
+          - img "menu" [ref=e310] [cursor=pointer]: 
+      - row "FA-1004 ACNOTIN 10MG CAPS BLAN x30 NO $ 0.85 145 star menu" [ref=e311]:
+        - gridcell "FA-1004" [ref=e312]
+        - gridcell "ACNOTIN 10MG CAPS BLAN x30" [ref=e313]:
+          - paragraph [ref=e314]: ACNOTIN 10MG CAPS BLAN x30
+          - paragraph
+        - gridcell "NO" [ref=e315]
+        - gridcell "$ 0.85" [ref=e316]:
+          - paragraph [ref=e317]: $ 0.85
+        - gridcell "145" [ref=e318]
+        - gridcell "star menu" [ref=e319]:
+          - img "star" [ref=e320] [cursor=pointer]: 
+          - img "menu" [ref=e321] [cursor=pointer]: 
+      - row "287574 ACNOTIN 20MG CAPS X30 ( S ) USO DR NO $ 1.16666667 0 star menu" [ref=e322]:
+        - gridcell "287574" [ref=e323]
+        - gridcell "ACNOTIN 20MG CAPS X30 ( S ) USO DR" [ref=e324]:
+          - paragraph [ref=e325]: ACNOTIN 20MG CAPS X30 ( S )
+          - paragraph [ref=e326]: USO DR
+        - gridcell "NO" [ref=e327]
+        - gridcell "$ 1.16666667" [ref=e328]:
+          - paragraph [ref=e329]: $ 1.16666667
+        - gridcell "0" [ref=e330]
+        - gridcell "star menu" [ref=e331]:
+          - img "star" [ref=e332] [cursor=pointer]: 
+          - img "menu" [ref=e333] [cursor=pointer]: 
+      - row "287574 ACNOTIN 20MG CAPS X30 ( S ) NO $ 1.25 120 star menu" [ref=e334]:
+        - gridcell "287574" [ref=e335]
+        - gridcell "ACNOTIN 20MG CAPS X30 ( S )" [ref=e336]:
+          - paragraph [ref=e337]: ACNOTIN 20MG CAPS X30 ( S )
+        - gridcell "NO" [ref=e338]
+        - gridcell "$ 1.25" [ref=e339]:
+          - paragraph [ref=e340]: $ 1.25
+        - gridcell "120" [ref=e341]
+        - gridcell "star menu" [ref=e342]:
+          - img "star" [ref=e343] [cursor=pointer]: 
+          - img "menu" [ref=e344] [cursor=pointer]: 
+      - row "FA-1395 ACRONISTINA SUSP 100000/ 120ML NO $ 8.35 1 star menu" [ref=e345]:
+        - gridcell "FA-1395" [ref=e346]
+        - gridcell "ACRONISTINA SUSP 100000/ 120ML" [ref=e347]:
+          - paragraph [ref=e348]: ACRONISTINA SUSP 100000/ 120ML
+          - paragraph
+        - gridcell "NO" [ref=e349]
+        - gridcell "$ 8.35" [ref=e350]:
+          - paragraph [ref=e351]: $ 8.35
+        - gridcell "1" [ref=e352]
+        - gridcell "star menu" [ref=e353]:
+          - img "star" [ref=e354] [cursor=pointer]: 
+          - img "menu" [ref=e355] [cursor=pointer]: 
+      - row "FA-1006 ACROVIR 500MG COMP RECX10 NO $ 1.57 72 star menu" [ref=e356]:
+        - gridcell "FA-1006" [ref=e357]
+        - gridcell "ACROVIR 500MG COMP RECX10" [ref=e358]:
+          - paragraph [ref=e359]: ACROVIR 500MG COMP RECX10
+          - paragraph
+        - gridcell "NO" [ref=e360]
+        - gridcell "$ 1.57" [ref=e361]:
+          - paragraph [ref=e362]: $ 1.57
+        - gridcell "72" [ref=e363]
+        - gridcell "star menu" [ref=e364]:
+          - img "star" [ref=e365] [cursor=pointer]: 
+          - img "menu" [ref=e366] [cursor=pointer]: 
+      - row "000013289 9 ACTIVA HAIR GROWTH SH|*200ML SI $ 16.05 (Inc. imp) 0 star menu" [ref=e367]:
+        - gridcell "000013289 9" [ref=e368]
+        - gridcell "ACTIVA HAIR GROWTH SH|*200ML" [ref=e369]:
+          - paragraph [ref=e370]: ACTIVA HAIR GROWTH SH|*200ML
+        - gridcell "SI" [ref=e371]
+        - gridcell "$ 16.05 (Inc. imp)" [ref=e372]:
+          - paragraph [ref=e373]:
+            - text: $ 16.05
+            - text: (Inc. imp)
+        - gridcell "0" [ref=e374]
+        - gridcell "star menu" [ref=e375]:
+          - img "star" [ref=e376] [cursor=pointer]: 
+          - img "menu" [ref=e377] [cursor=pointer]: 
+      - row "000013913 1 ACTIVA SUPLEM ALIM HAIR|GROWTH TAB *60 X unidad SI $ 0.55 (Inc. imp) 180 star menu" [ref=e378]:
+        - gridcell "000013913 1" [ref=e379]
+        - gridcell "ACTIVA SUPLEM ALIM HAIR|GROWTH TAB *60 X unidad" [ref=e380]:
+          - paragraph [ref=e381]: ACTIVA SUPLEM ALIM HAIR|GROWTH TAB *60
+          - paragraph [ref=e382]: X unidad
+        - gridcell "SI" [ref=e383]
+        - gridcell "$ 0.55 (Inc. imp)" [ref=e384]:
+          - paragraph [ref=e385]:
+            - text: $ 0.55
+            - text: (Inc. imp)
+        - gridcell "180" [ref=e386]
+        - gridcell "star menu" [ref=e387]:
+          - img "star" [ref=e388] [cursor=pointer]: 
+          - img "menu" [ref=e389] [cursor=pointer]: 
+      - row "816378022 168 Advanced Dark Spot Corrector|Frasco Dispensador X 30ml SI $ 46 (Inc. imp) 0 star menu" [ref=e390]:
+        - gridcell "816378022 168" [ref=e391]
+        - gridcell "Advanced Dark Spot Corrector|Frasco Dispensador X 30ml" [ref=e392]:
+          - paragraph [ref=e393]: Advanced Dark Spot Corrector|Frasco Dispensador X 30ml
+        - gridcell "SI" [ref=e394]
+        - gridcell "$ 46 (Inc. imp)" [ref=e395]:
+          - paragraph [ref=e396]:
+            - text: $ 46
+            - text: (Inc. imp)
+        - gridcell "0" [ref=e397]
+        - gridcell "star menu" [ref=e398]:
+          - img "star" [ref=e399] [cursor=pointer]: 
+          - img "menu" [ref=e400] [cursor=pointer]: 
+      - row "FA-1466 AERONID 125 SUPS INHAL25-125MCG NO $ 21.5 6 star menu" [ref=e401]:
+        - gridcell "FA-1466" [ref=e402]
+        - gridcell "AERONID 125 SUPS INHAL25-125MCG" [ref=e403]:
+          - paragraph [ref=e404]: AERONID 125 SUPS INHAL25-125MCG
+          - paragraph
+        - gridcell "NO" [ref=e405]
+        - gridcell "$ 21.5" [ref=e406]:
+          - paragraph [ref=e407]: $ 21.5
+        - gridcell "6" [ref=e408]
+        - gridcell "star menu" [ref=e409]:
+          - img "star" [ref=e410] [cursor=pointer]: 
+          - img "menu" [ref=e411] [cursor=pointer]: 
+      - row "FA-1467 AERONID 50 INHAL SUSP 25/50MCG NO $ 15.45 4 star menu" [ref=e412]:
+        - gridcell "FA-1467" [ref=e413]
+        - gridcell "AERONID 50 INHAL SUSP 25/50MCG" [ref=e414]:
+          - paragraph [ref=e415]: AERONID 50 INHAL SUSP 25/50MCG
+          - paragraph
+        - gridcell "NO" [ref=e416]
+        - gridcell "$ 15.45" [ref=e417]:
+          - paragraph [ref=e418]: $ 15.45
+        - gridcell "4" [ref=e419]
+        - gridcell "star menu" [ref=e420]:
+          - img "star" [ref=e421] [cursor=pointer]: 
+          - img "menu" [ref=e422] [cursor=pointer]: 
+      - row "789538914 5076 Age Inverse Night Repair - 45 gr SI $ 55.2 (Inc. imp) 0 star menu" [ref=e423]:
+        - gridcell "789538914 5076" [ref=e424]
+        - gridcell "Age Inverse Night Repair - 45 gr" [ref=e425]:
+          - paragraph [ref=e426]: Age Inverse Night Repair - 45 gr
+        - gridcell "SI" [ref=e427]
+        - gridcell "$ 55.2 (Inc. imp)" [ref=e428]:
+          - paragraph [ref=e429]:
+            - text: $ 55.2
+            - text: (Inc. imp)
+        - gridcell "0" [ref=e430]
+        - gridcell "star menu" [ref=e431]:
+          - img "star" [ref=e432] [cursor=pointer]: 
+          - img "menu" [ref=e433] [cursor=pointer]: 
+      - row "FA-1469 AIRPLE SUS INHAL 100MCG NO $ 6.45 4 star menu" [ref=e434]:
+        - gridcell "FA-1469" [ref=e435]
+        - gridcell "AIRPLE SUS INHAL 100MCG" [ref=e436]:
+          - paragraph [ref=e437]: AIRPLE SUS INHAL 100MCG
+          - paragraph
+        - gridcell "NO" [ref=e438]
+        - gridcell "$ 6.45" [ref=e439]:
+          - paragraph [ref=e440]: $ 6.45
+        - gridcell "4" [ref=e441]
+        - gridcell "star menu" [ref=e442]:
+          - img "star" [ref=e443] [cursor=pointer]: 
+          - img "menu" [ref=e444] [cursor=pointer]: 
+      - 'row "023988 AKLIEF 50 UGG LOTE: 4710048 NO $ 41.256 17 star menu" [ref=e445]':
+        - gridcell "023988" [ref=e446]
+        - 'gridcell "AKLIEF 50 UGG LOTE: 4710048" [ref=e447]':
+          - paragraph [ref=e448]: "AKLIEF 50 UGG LOTE: 4710048"
+        - gridcell "NO" [ref=e449]
+        - gridcell "$ 41.256" [ref=e450]:
+          - paragraph [ref=e451]: $ 41.256
+        - gridcell "17" [ref=e452]
+        - gridcell "star menu" [ref=e453]:
+          - img "star" [ref=e454] [cursor=pointer]: 
+          - img "menu" [ref=e455] [cursor=pointer]: 
+      - row "FA-1373 AKUN AHA CLARIFIER FRASCO 50ML SI $ 29.1 (Inc. imp) 4 star menu" [ref=e456]:
+        - gridcell "FA-1373" [ref=e457]
+        - gridcell "AKUN AHA CLARIFIER FRASCO 50ML" [ref=e458]:
+          - paragraph [ref=e459]: AKUN AHA CLARIFIER FRASCO 50ML
+          - paragraph
+        - gridcell "SI" [ref=e460]
+        - gridcell "$ 29.1 (Inc. imp)" [ref=e461]:
+          - paragraph [ref=e462]:
+            - text: $ 29.1
+            - text: (Inc. imp)
+        - gridcell "4" [ref=e463]
+        - gridcell "star menu" [ref=e464]:
+          - img "star" [ref=e465] [cursor=pointer]: 
+          - img "menu" [ref=e466] [cursor=pointer]: 
+    - generic [ref=e471]:
+      - paragraph [ref=e473]: 603 registros en total, 25 por página
+      - generic [ref=e474]:
+        - generic:
+          - button "arrow dropleft-circle" [disabled]:
+            - img "arrow dropleft-circle": 
+          - generic: 1/25
+          - button "arrow dropright-circle" [ref=e475] [cursor=pointer]:
+            - img "arrow dropright-circle" [ref=e476]: 

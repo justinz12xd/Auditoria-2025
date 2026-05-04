@@ -1,0 +1,16 @@
+- generic [ref=e4]:
+  - text:                                                            
+  - generic [ref=e1782]:
+    - generic [ref=e1787]:
+      - generic [ref=e1790]: Descargar Productos/Servicios
+      - button "close" [ref=e1792] [cursor=pointer]:
+        - img "close" [ref=e1794]: 
+    - generic [ref=e1805]:
+      - img [ref=e1806]
+      - alert [ref=e1807]: Descarga todo el listado de productos/servicios registrados en formato excel.
+      - generic [ref=e1809]:
+        - generic [ref=e1810]: Filtrar por categorias
+        - button "apps" [ref=e1812] [cursor=pointer]:
+          - img "apps" [ref=e1814]: 
+      - button "Descargar" [ref=e1819] [cursor=pointer]:
+        - generic [ref=e1820]: Descargar

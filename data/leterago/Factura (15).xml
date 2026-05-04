@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0901202501179037150600120080200013142410131424115</numeroAutorizacion>
+<fechaAutorizacion>2025-01-09T16:03:49-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+   <infoTributaria>
+      <ambiente>2</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>QUIFATEX S.A.</razonSocial>
+      <nombreComercial>QUIFATEX S.A.</nombreComercial>
+      <ruc>1790371506001</ruc>
+      <claveAcceso>0901202501179037150600120080200013142410131424115</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>008</estab>
+      <ptoEmi>020</ptoEmi>
+      <secuencial>001314241</secuencial>
+      <dirMatriz>Av. República E2-194 y Rumipamba</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>09/01/2025</fechaEmision>
+      <dirEstablecimiento>KM 14.5 PANAMERICANA NORTE S/N Y PASAJE CENEPA - Quito</dirEstablecimiento>
+      <contribuyenteEspecial>5368</contribuyenteEspecial>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <guiaRemision>008-020-002062986</guiaRemision>
+      <razonSocialComprador>PHARMA ESTHETIC / BARCIA DELGADO JENNY GERMANIA</razonSocialComprador>
+      <identificacionComprador>1302177611001</identificacionComprador>
+      <totalSinImpuestos>432.33</totalSinImpuestos>
+      <totalDescuento>66.95</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>0</codigoPorcentaje>
+            <baseImponible>214.37</baseImponible>
+            <valor>0.00</valor>
+         </totalImpuesto>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>4</codigoPorcentaje>
+            <baseImponible>217.96</baseImponible>
+            <valor>32.69</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>465.02</importeTotal>
+      <moneda>DOLAR</moneda>
+      <pagos>
+         <pago>
+            <formaPago>20</formaPago>
+            <total>465.02</total>
+            <plazo>60</plazo>
+            <unidadTiempo>Días</unidadTiempo>
+         </pago>
+      </pagos>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>287574</codigoPrincipal>
+         <codigoAuxiliar>287574</codigoAuxiliar>
+         <descripcion>ACNOTIN 20MG CAPS X30 ( S )</descripcion>
+         <cantidad>7.000</cantidad>
+         <precioUnitario>35.000000</precioUnitario>
+         <descuento>30.63</descuento>
+         <precioTotalSinImpuesto>214.37</precioTotalSinImpuesto>
+         <detallesAdicionales>
+            <detAdicional nombre="LOTE" valor="24H15A1"></detAdicional>
+            <detAdicional nombre="FECHA_VENCIMIENTO" valor="20260814"></detAdicional>
+         </detallesAdicionales>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>0</codigoPorcentaje>
+               <tarifa>0</tarifa>
+               <baseImponible>214.37</baseImponible>
+               <valor>0.00</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>287732</codigoPrincipal>
+         <codigoAuxiliar>287732</codigoAuxiliar>
+         <descripcion>LETI AT4 LECHE FAC TUBO 50ML ( S )</descripcion>
+         <cantidad>6.000</cantidad>
+         <precioUnitario>18.750000</precioUnitario>
+         <descuento>16.07</descuento>
+         <precioTotalSinImpuesto>96.43</precioTotalSinImpuesto>
+         <detallesAdicionales>
+            <detAdicional nombre="LOTE" valor="9443V0427"></detAdicional>
+            <detAdicional nombre="FECHA_VENCIMIENTO" valor="20270430"></detAdicional>
+         </detallesAdicionales>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>4</codigoPorcentaje>
+               <tarifa>15</tarifa>
+               <baseImponible>96.43</baseImponible>
+               <valor>14.46</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>287724</codigoPrincipal>
+         <codigoAuxiliar>287724</codigoAuxiliar>
+         <descripcion>LETI AT4 CR CORP TUBO 200ML ( S )</descripcion>
+         <cantidad>6.000</cantidad>
+         <precioUnitario>23.630000</precioUnitario>
+         <descuento>20.25</descuento>
+         <precioTotalSinImpuesto>121.53</precioTotalSinImpuesto>
+         <detallesAdicionales>
+            <detAdicional nombre="LOTE" valor="9312V0427"></detAdicional>
+            <detAdicional nombre="FECHA_VENCIMIENTO" valor="20270408"></detAdicional>
+         </detallesAdicionales>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>4</codigoPorcentaje>
+               <tarifa>15</tarifa>
+               <baseImponible>121.53</baseImponible>
+               <valor>18.23</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+   <infoAdicional><campoAdicional nombre="ORIGEN">7041958768</campoAdicional><campoAdicional nombre="1">CONTRIBUYENTE ESPECIAL</campoAdicional><campoAdicional nombre="2">Resolución No. 5368 del 02-06-95</campoAdicional><campoAdicional nombre="3">GRAN CONTRIBUYENTE</campoAdicional><campoAdicional nombre="4">Resolución NAC-GCFOIOC21-00000984-E</campoAdicional></infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature886905">
+<ds:SignedInfo Id="Signature-SignedInfo960857">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID969231" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature886905-SignedProperties140743">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>D/cAVlLeCq/1rPH+fvjE6Th6yuQ=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate11001427">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>qg16aOk2HPvwMMUll9TLnc5oNj8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-287367" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>hT1s37uxQ6RA6pz1Mt8rMVB8xvw=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue837977">
+GFKtCDKwXw8iIFqM/7GTS0cqg4AGawBw+iYdl6wug2KdoWcqYhAcJYmyV0fY4faDT08uDxZV0eAP
+4m4wSJtoThqzRr51eTuyxbHL9R6rqI1imEv8DxmeGxUS/x1h3HMUJ5L29IxhMIOCFo5RqiJrTtFf
+89t02yWr4KIi4sq2Yk0webp8fLA041VddvwqT3hXrAgBYE5RchECodo8E4ttbKdbunieXG8Y9ASW
+0xwBiLRmIpkaNZetJJeORNdGAkv3p/nErfE9fh/lqLgCPUTdtDmYbU2oHp36M08cYNhcPucM+PBA
++bjGHiSe6Gzq/NUZlUWFKcYAcaWioA1TVJ4hbA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate11001427">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMAjCCCeqgAwIBAgIEA+Wq6TANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDAxMTgxOTQ5MjdaFw0yNjAxMTcxOTQ5MjdaMIGeMScw
+JQYDVQQDDB5NQVJDRUxBIFBBVUxJTkEgUFJPQU5PIFNBTkNIRVoxFTATBgNVBAUTDDE4MDEyNDE0
+NTkxMTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQD+m0zO1I8CIdqWu1fteaWl4jImx0IE2GP4NK03S08jVItpbuQMDLVI
+a04CQbo+GTYypzqwd9BW1fnJAVWiNXYNs8y81G+QeH3g8qwJ/5bJTHgip5EM3aQ0Bs+ctciFo7lt
+4X5hesFJLe1COkTXFjbbiwr3oXANgkVX3dbcLFNdFHBMTHqUjrny2GxiOlAFITTiC0fx9bt2X/c7
+XjiADNUOIPIyh7cY56kswN4ZaviumetMskMiZQ+9jQ1Hvm2JhFNoY9/03gTYhDbwZycV2jIUChyj
+ikEHCChzGYLZZkLB4rDF4TMPArcCljp35D6uqpHcohUOn8DLo9rxx2DmB08/AgMBAAGjggdJMIIH
+RTAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2PMFkGCCsGAQUF
+BwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2Vq
+YmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+oIG7hoG4bGRhcDov
+L2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FD
+SU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUg
+SU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRhUmV2b2NhdGlvbkxp
+c3Q/YmFzZTAmBgNVHREEHzAdgRttYXJjZWxhLnByb2Fub0BxdWlmYXRleC5jb20wggESBgNVHSAE
+ggEJMIIBBTBgBgorBgEEAYKmcgIKMFIwUAYIKwYBBQUHAgIwRB5CAEMAZQByAHQAaQBmAGkAYwBh
+AGQAbwAgAGQAZQAgAE0AaQBlAG0AYgByAG8AIABkAGUAIABFAG0AcAByAGUAcwBhMIGgBgorBgEE
+AYKmcgIEMIGRMIGOBggrBgEFBQcCARaBgWh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMv
+d3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGlj
+YXMgZGUgQ2VydGlmaWNhZG8gTWllbWJybyBkZSBFbXByZXNhLnBkZjCCAqIGA1UdHwSCApkwggKV
+MIHloEGgP4Y9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dl
+Yi9zdGF0dXMvb2NzcKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJ
+T04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQG
+EwJFQzCBx6CBxKCBwYaBvmxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1B
+VVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURB
+RCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIs
+Qz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRwczovL3Bv
+cnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlz
+dC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBT
+VUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9S
+TUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQUwrctiX8G/SP+W1H6
+2eYcUrI9tvgwKwYDVR0QBCQwIoAPMjAyNDAxMTgxOTQ5MjdagQ8yMDI2MDExNzE5NDkyN1owCwYD
+VR0PBAQDAgXgMCIGCisGAQQBgqZyAwUEFAwSQVBPREVSQURBIEVTUEVDSUFMMBoGCisGAQQBgqZy
+AwEEDAwKMTcxMjk5NjM0NTAVBgorBgEEAYKmcgMJBAcMBVFVSVRPMBEGCisGAQQBgqZyAyIEAwwB
+LjAyBgorBgEEAYKmcgMHBCQMIkxBIFJFUFVCTElDQSBFMiAxOTQgWSBBViBSVU1JUEFNQkEwHwYK
+KwYBBAGCpnIDAgQRDA9NQVJDRUxBIFBBVUxJTkEwHwYKKwYBBAGCpnIDIAQRDA8wMDIwMDEwMDA3
+NTI0MjIwEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBYGCisG
+AQQBgqZyAwMECAwGUFJPQU5PMBwGCisGAQQBgqZyAwoEDgwMUVVJRkFURVggUyBBMB0GCisGAQQB
+gqZyAwsEDwwNMTc5MDM3MTUwNjAwMTASBgorBgEEAYKmcgMdBAQMAk5vMBcGCisGAQQBgqZyAwQE
+CQwHU0FOQ0hFWjAaBgorBgEEAYKmcgMIBAwMCjA5OTg5MjMxMjgwDQYJKoZIhvcNAQELBQADggIB
+AFKa/pxkW976hKUWqCPnUFEEDkJAGVntXb+b/1HtjyZFzaQqU015cBIOnLUbaVKAX3vsOWaJlidU
+wa2q1+kO7AM3HNKxUEx8FcMN0HjAf8btmIvPH7f73M/FGoLjhqApWW/yR/RnCQ6yQIEZrFD1CKu8
+pKLFkFUc+PL5cxiWmBLnoG+Q2owqAKcem7jbv5376biWX45qx5yYCTguDQCl0ROHEGpmHOkAlAux
+yX/q9EASroL6aSoLyDEQaBENG0i84/p58pk309zbWcZWCMgxk1WN8Cz3My5NFe6ABhgGSiZDu9vC
+HtFxNYp6aAShrDmZX7cECnnl9WRKD9qw2UWQt/brpEK8dMCt+XwgqeKIYm5gnXnQZhUE3Ji3U+Go
++++lLDewPfze4kyyQ+d71uEnNyfoFbEAUgfkN/t+mk4Z4ifwlworRKxlygmkeMbre3S7jfLz4vML
+IgckjdtFAvAvpKP/z7X+TBuZ/5uUPJRi+BcItgBG0Us/yXrUA4/qctwBEXAbjIgDB06bILBSgAs2
+ivSZNYZ4dxn0o8lOjUuUHsydSethcXhJTHzp/Tyb1wdpNzWT6QuAjd7yI/aRjpIB/T7iSdjfyW6S
+od5+0QtkqnjxzB+vyw6mPZgvUtRMSXShY6dxneZYsy7TPAc7hHcrZPAg7fS0aW/a4XtdQ8DrNHoc
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+/ptMztSPAiHalrtX7XmlpeIyJsdCBNhj+DStN0tPI1SLaW7kDAy1SGtOAkG6Phk2Mqc6sHfQVtX5
+yQFVojV2DbPMvNRvkHh94PKsCf+WyUx4IqeRDN2kNAbPnLXIhaO5beF+YXrBSS3tQjpE1xY224sK
+96FwDYJFV93W3CxTXRRwTEx6lI658thsYjpQBSE04gtH8fW7dl/3O144gAzVDiDyMoe3GOepLMDe
+GWr4rpnrTLJDImUPvY0NR75tiYRTaGPf9N4E2IQ28GcnFdoyFAoco4pBBwgocxmC2WZCweKwxeEz
+DwK3ApY6d+Q+rqqR3KIVDp/Ay6Pa8cdg5gdPPw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature886905-Object421261"><etsi:QualifyingProperties Target="#Signature886905"><etsi:SignedProperties Id="Signature886905-SignedProperties140743"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-01-09T16:03:48-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>xc/AKmXA0OS7+SD9pI4XBraVxeY=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>65383145</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-287367"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

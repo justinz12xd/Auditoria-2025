@@ -1,0 +1,88 @@
+- generic [ref=e2]:
+  - generic [ref=e11]:
+    - generic [ref=e13]:
+      - paragraph [ref=e17]: Tema
+      - generic [ref=e19]:
+        - generic [ref=e20]:
+          - generic [ref=e21]: Claro
+          - combobox "Selected Claro. Tema" [ref=e23]
+        - img "open" [ref=e25]
+    - heading "Audit Pro 2025" [level=2] [ref=e31]
+    - paragraph [ref=e36]: Filtros globales
+    - generic [ref=e38]:
+      - paragraph [ref=e42]: Mes
+      - generic [ref=e44]:
+        - generic [ref=e45]:
+          - generic [ref=e46]: Todo 2025
+          - combobox "Selected Todo 2025. Mes" [ref=e48]
+        - img "open" [ref=e50]
+    - generic [ref=e53]:
+      - generic [ref=e54]:
+        - paragraph [ref=e57]: Producto
+        - button "Help for Producto" [ref=e61] [cursor=pointer]:
+          - img [ref=e62]
+      - generic [ref=e66]:
+        - generic [ref=e67]:
+          - generic [ref=e68]: Todos los productos
+          - combobox "Selected Todos los productos. Producto" [ref=e70]
+        - img "open" [ref=e72]
+    - generic [ref=e75]:
+      - paragraph [ref=e79]: Filtrar por promociones
+      - generic [ref=e81]:
+        - generic [ref=e82]:
+          - generic [ref=e83]: Todos
+          - combobox "Selected Todos. Filtrar por promociones" [ref=e85]
+        - img "open" [ref=e87]
+    - generic [ref=e91]:
+      - generic [ref=e92]:
+        - paragraph [ref=e95]: "Supuesto: % promos no monetizadas robadas"
+        - 'button "Help for Supuesto: % promos no monetizadas robadas" [ref=e99] [cursor=pointer]':
+          - img [ref=e100]
+      - generic [ref=e103]:
+        - 'slider "Supuesto: % promos no monetizadas robadas" [ref=e107]':
+          - generic:
+            - generic:
+              - paragraph: "30"
+        - generic:
+          - generic:
+            - paragraph: "0"
+          - generic:
+            - paragraph: "100"
+  - generic [ref=e111]:
+    - generic [ref=e116]:
+      - generic [ref=e117]: Auditoría de Promociones 2025
+      - generic [ref=e118]: Vista ejecutiva de ingresos reales, promociones y brecha estimada
+    - heading "Resumen" [level=3] [ref=e123]:
+      - text: Resumen
+      - generic [ref=e124]:
+        - link "Link to heading":
+          - /url: "#resumen"
+          - img
+    - paragraph [ref=e171]: "Escenario aplicado: 30% de promos no monetizadas tratadas como robadas y 70% como stock no vendido."
+    - heading "Detalle por producto" [level=3] [ref=e181]:
+      - text: Detalle por producto
+      - generic [ref=e182]:
+        - link "Link to heading":
+          - /url: "#detalle-por-producto"
+          - img
+    - generic [ref=e192]:
+      - paragraph [ref=e196]: Prioridad
+      - generic [ref=e198]:
+        - generic [ref=e199]:
+          - generic [ref=e200]: Todas
+          - combobox "Selected Todas. Prioridad" [ref=e202]
+        - img "open" [ref=e204]
+    - paragraph [ref=e216]: Ordenado por mayor brecha de ingreso (USD), luego por mayor % no monetizada.
+    - generic [ref=e220]:
+      - tablist [ref=e222]:
+        - tab "Composición y brecha por producto" [selected] [ref=e223] [cursor=pointer]:
+          - paragraph [ref=e225]: Composición y brecha por producto
+        - tab "Tendencia mensual" [ref=e226] [cursor=pointer]:
+          - paragraph [ref=e228]: Tendencia mensual
+      - tabpanel "Composición y brecha por producto" [ref=e231]:
+        - heading "Composición de ingresos" [level=3] [ref=e246]:
+          - text: Composición de ingresos
+          - generic [ref=e247]:
+            - link "Link to heading":
+              - /url: "#composicion-de-ingresos"
+              - img

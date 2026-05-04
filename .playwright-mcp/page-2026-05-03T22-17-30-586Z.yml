@@ -1,0 +1,212 @@
+- generic [active]:
+  - generic [ref=e2]:
+    - generic [ref=e11]:
+      - generic [ref=e13]:
+        - paragraph [ref=e17]: Tema
+        - generic [ref=e19]:
+          - generic [ref=e20]:
+            - generic [ref=e21]: Claro
+            - combobox "Selected Claro. Tema" [ref=e23]
+          - img "open" [ref=e25]
+      - heading "Audit Pro 2025" [level=2] [ref=e31]
+      - paragraph [ref=e36]: Filtros globales
+      - generic [ref=e38]:
+        - paragraph [ref=e42]: Mes
+        - generic [ref=e44]:
+          - generic [ref=e45]:
+            - generic [ref=e46]: Todo 2025
+            - combobox "Selected Todo 2025. Mes" [ref=e48]
+          - img "open" [ref=e50]
+      - generic [ref=e53]:
+        - generic [ref=e54]:
+          - paragraph [ref=e57]: Producto
+          - button "Help for Producto" [ref=e61] [cursor=pointer]:
+            - img [ref=e62]
+        - generic [ref=e66]:
+          - generic [ref=e67]:
+            - generic [ref=e68]: Todos los productos
+            - combobox "Selected Todos los productos. Producto" [ref=e70]
+          - img "open" [ref=e72]
+      - generic [ref=e75]:
+        - paragraph [ref=e79]: Filtrar por promociones
+        - generic [ref=e81]:
+          - generic [ref=e82]:
+            - generic [ref=e83]: Todos
+            - combobox "Selected Todos. Filtrar por promociones" [ref=e85]
+          - img "open" [ref=e87]
+    - generic [ref=e91]:
+      - generic [ref=e96]:
+        - generic [ref=e97]: Auditoría de Promociones 2025
+        - generic [ref=e98]: Vista ejecutiva de ingresos reales, promociones y brecha estimada
+      - heading "Resumen" [level=3] [ref=e103]:
+        - text: Resumen
+        - generic [ref=e104]:
+          - link "Link to heading":
+            - /url: "#resumen"
+            - img
+      - generic [ref=e106]:
+        - generic [ref=e111]:
+          - paragraph [ref=e114]: Ingresos reales pagados
+          - paragraph [ref=e117]: $160,301.05
+        - generic [ref=e122]:
+          - paragraph [ref=e125]: Ingreso esperado (promos)
+          - paragraph [ref=e128]: $1,367.70
+        - generic [ref=e133]:
+          - paragraph [ref=e136]: Ingreso monetizado (promos)
+          - paragraph [ref=e139]: $510.77
+      - generic [ref=e141]:
+        - generic [ref=e146]:
+          - paragraph [ref=e149]: Brecha total (promos)
+          - paragraph [ref=e152]: $856.93
+        - generic [ref=e157]:
+          - paragraph [ref=e160]: Unidades promo no monetizadas
+          - paragraph [ref=e163]: "120"
+        - generic [ref=e168]:
+          - paragraph [ref=e171]: "% promo no monetizada"
+          - paragraph [ref=e174]: 60.91%
+      - paragraph [ref=e179]: La brecha es la diferencia entre el ingreso que las promociones podrían haber aportado y lo efectivamente monetizado según ventas.
+      - heading "Detalle por producto" [level=3] [ref=e189]:
+        - text: Detalle por producto
+        - generic [ref=e190]:
+          - link "Link to heading":
+            - /url: "#detalle-por-producto"
+            - img
+      - generic [ref=e192]:
+        - generic [ref=e196]:
+          - generic [ref=e197]:
+            - paragraph [ref=e200]: Vista de columnas
+            - button "Help for Vista de columnas" [ref=e204] [cursor=pointer]:
+              - img [ref=e205]
+          - radiogroup "Vista de columnas" [ref=e208] [cursor=pointer]:
+            - generic [ref=e209]:
+              - radio "Esencial" [checked]
+              - paragraph [ref=e214]: Esencial
+            - generic [ref=e215]:
+              - radio "Completa"
+              - paragraph [ref=e220]: Completa
+        - generic [ref=e224]:
+          - paragraph [ref=e228]: Prioridad
+          - generic [ref=e230]:
+            - generic [ref=e231]:
+              - generic [ref=e232]: Todas
+              - combobox "Selected Todas. Prioridad" [ref=e234]
+            - img "open" [ref=e236]
+        - generic [ref=e242] [cursor=pointer]:
+          - checkbox "Solo con brecha > 0" [checked]
+          - paragraph [ref=e247]: Solo con brecha > 0
+      - generic [ref=e249]:
+        - paragraph [ref=e253]: Buscar producto (SKU o nombre)
+        - textbox "Buscar producto (SKU o nombre)" [ref=e256]:
+          - /placeholder: "Ej: PERSPIREX o 7750187005097"
+      - paragraph [ref=e261]: Ordenado por mayor brecha de ingreso (USD), luego por mayor % no monetizada.
+      - generic [ref=e266]:
+        - button "Show/hide columns" [ref=e270] [cursor=pointer]:
+          - img [ref=e271]
+        - button "Download as CSV" [ref=e276] [cursor=pointer]:
+          - img [ref=e277]
+        - button "Search" [ref=e282] [cursor=pointer]:
+          - img [ref=e283]
+        - button "Fullscreen" [ref=e288] [cursor=pointer]:
+          - img [ref=e289]
+      - generic [ref=e299]:
+        - tablist [ref=e301]:
+          - tab "Composición y brecha por producto" [selected] [ref=e302] [cursor=pointer]:
+            - paragraph [ref=e304]: Composición y brecha por producto
+          - tab "Tendencia mensual" [ref=e305] [cursor=pointer]:
+            - paragraph [ref=e307]: Tendencia mensual
+        - tabpanel "Composición y brecha por producto" [ref=e310]:
+          - generic [ref=e313]:
+            - generic [ref=e315]:
+              - heading "Composición de ingresos" [level=3] [ref=e325]:
+                - text: Composición de ingresos
+                - generic [ref=e326]:
+                  - link "Link to heading":
+                    - /url: "#composicion-de-ingresos"
+                    - img
+              - generic [ref=e332]:
+                - img:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: Ingreso total por mercancía pagada99.2%
+                      - generic:
+                        - generic:
+                          - generic: Ingreso que debió lograrse por promociones0.846%
+                - img:
+                  - generic [ref=e338]:
+                    - generic [ref=e340]: Ingreso total por mercancía pagada
+                    - generic [ref=e347]: Ingreso que debió lograrse por promociones
+                - toolbar [ref=e353]:
+                  - button "Download plot as a PNG" [ref=e355] [cursor=pointer]:
+                    - img [ref=e356]
+                  - button "Fullscreen" [ref=e359] [cursor=pointer]:
+                    - img [ref=e360]
+                - img
+            - generic [ref=e363]:
+              - heading "Top productos por brecha" [level=3] [ref=e373]:
+                - text: Top productos por brecha
+                - generic [ref=e374]:
+                  - link "Link to heading":
+                    - /url: "#top-productos-por-brecha"
+                    - img
+              - generic [ref=e380]:
+                - img:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: ANTHEMIS TALCO 120GR
+                        - generic:
+                          - generic: LOCIÓN ANTITRANSPIRANTE 200ML
+                        - generic:
+                          - generic: FLUIDBASE REDERM LOCIÓN AHA|10%
+                        - generic:
+                          - generic: GENOCUTÁN GEL DERMATOLÓGICO|500ML
+                        - generic:
+                          - generic: MINOXIDIL 2,5MG+FINASTERIDE 2,5MG CAPS
+                      - generic:
+                        - generic:
+                          - generic: "0"
+                        - generic:
+                          - generic: "50"
+                        - generic:
+                          - generic: "100"
+                        - generic:
+                          - generic: "150"
+                - img:
+                  - generic:
+                    - generic [ref=e396]:
+                      - generic [ref=e397]: estado_brecha
+                      - generic [ref=e400]: Brecha positiva
+                    - generic:
+                      - generic: Producto
+                    - generic:
+                      - generic: Brecha USD
+                - toolbar [ref=e406]:
+                  - button "Download plot as a PNG" [ref=e408] [cursor=pointer]:
+                    - img [ref=e409]
+                  - generic [ref=e411]:
+                    - button "Zoom" [ref=e412] [cursor=pointer]:
+                      - img [ref=e413]
+                    - button "Pan" [ref=e415] [cursor=pointer]:
+                      - img [ref=e416]
+                  - generic [ref=e418]:
+                    - button "Zoom in" [ref=e419] [cursor=pointer]:
+                      - img [ref=e420]
+                    - button "Zoom out" [ref=e422] [cursor=pointer]:
+                      - img [ref=e423]
+                    - button "Autoscale" [ref=e425] [cursor=pointer]:
+                      - img [ref=e426]
+                    - button "Reset axes" [ref=e428] [cursor=pointer]:
+                      - img [ref=e429]
+                  - button "Fullscreen" [ref=e432] [cursor=pointer]:
+                    - img [ref=e433]
+                - img
+      - paragraph [ref=e439]:
+        - text: "Periodo: Todo 2025 | Ventas:"
+        - code [ref=e440]: /home/jus/Desktop/scrapingSRI-SnrFadia/data/processed/facturas_2025_detalles.csv
+        - text: "| Compras:"
+        - code [ref=e441]: /home/jus/Desktop/scrapingSRI-SnrFadia/data/processed/compras_2025_detalles.csv
+        - text: "| Registros mostrados: 556"
+  - img [ref=e442]

@@ -1,0 +1,222 @@
+- generic:
+  - generic:
+    - generic [ref=e2]:
+      - generic [ref=e7]:
+        - button "keyboard_double_arrow_left" [ref=e457] [cursor=pointer]:
+          - generic [ref=e459]: keyboard_double_arrow_left
+        - generic [ref=e11]:
+          - generic [ref=e13]:
+            - paragraph [ref=e17]: Tema
+            - generic [ref=e19]:
+              - generic [ref=e20]:
+                - generic [ref=e21]: Oscuro
+                - combobox "Selected Oscuro. Tema" [expanded] [active] [ref=e476]
+              - img "open" [ref=e25]
+          - heading "Audit Pro 2025" [level=2] [ref=e31]
+          - paragraph [ref=e36]: Filtros globales
+          - generic [ref=e38]:
+            - paragraph [ref=e42]: Mes
+            - generic [ref=e44]:
+              - generic [ref=e45]:
+                - generic [ref=e46]: Todo 2025
+                - combobox "Selected Todo 2025. Mes" [ref=e48]
+              - img "open" [ref=e50]
+          - generic [ref=e53]:
+            - generic [ref=e54]:
+              - paragraph [ref=e57]: Producto
+              - button "Help for Producto" [ref=e61] [cursor=pointer]:
+                - img [ref=e62]
+            - generic [ref=e66]:
+              - generic [ref=e67]:
+                - generic [ref=e68]: Todos los productos
+                - combobox "Selected Todos los productos. Producto" [ref=e70]
+              - img "open" [ref=e72]
+          - generic [ref=e75]:
+            - paragraph [ref=e79]: Filtrar por promociones
+            - generic [ref=e81]:
+              - generic [ref=e82]:
+                - generic [ref=e83]: Todos
+                - combobox "Selected Todos. Filtrar por promociones" [ref=e85]
+              - img "open" [ref=e87]
+      - generic [ref=e91]:
+        - generic [ref=e96]:
+          - generic [ref=e97]: Auditoría de Promociones 2025
+          - generic [ref=e98]: Vista ejecutiva de ingresos reales, promociones y brecha estimada
+        - heading "Resumen" [level=3] [ref=e103]:
+          - text: Resumen
+          - generic [ref=e104]:
+            - link "Link to heading":
+              - /url: "#resumen"
+              - img
+        - generic [ref=e106]:
+          - generic [ref=e186]:
+            - paragraph [ref=e189]: Ingresos reales pagados
+            - paragraph [ref=e192]: $160,301.05
+          - generic [ref=e194]:
+            - paragraph [ref=e197]: Ingreso esperado (promos)
+            - paragraph [ref=e200]: $1,367.70
+          - generic [ref=e202]:
+            - paragraph [ref=e205]: Ingreso monetizado (promos)
+            - paragraph [ref=e208]: $510.77
+        - generic [ref=e120]:
+          - generic [ref=e210]:
+            - paragraph [ref=e213]: Brecha total (promos)
+            - paragraph [ref=e216]: $856.93
+          - generic [ref=e218]:
+            - paragraph [ref=e221]: Unidades promo no monetizadas
+            - paragraph [ref=e224]: "120"
+          - generic [ref=e226]:
+            - paragraph [ref=e229]: "% promo no monetizada"
+            - paragraph [ref=e232]: 60.91%
+        - paragraph [ref=e137]: La brecha es la diferencia entre el ingreso que las promociones podrían haber aportado y lo efectivamente monetizado según ventas.
+        - heading "Detalle por producto" [level=3] [ref=e147]:
+          - text: Detalle por producto
+          - generic [ref=e148]:
+            - link "Link to heading":
+              - /url: "#detalle-por-producto"
+              - img
+        - generic [ref=e150]:
+          - generic [ref=e233]:
+            - generic [ref=e234]:
+              - paragraph [ref=e237]: Vista de columnas
+              - button "Help for Vista de columnas" [ref=e241] [cursor=pointer]:
+                - img [ref=e242]
+            - radiogroup "Vista de columnas" [ref=e245] [cursor=pointer]:
+              - generic [ref=e246]:
+                - radio "Esencial" [checked]
+                - paragraph [ref=e251]: Esencial
+              - generic [ref=e252]:
+                - radio "Completa"
+                - paragraph [ref=e257]: Completa
+          - generic [ref=e158]:
+            - paragraph [ref=e162]: Prioridad
+            - generic [ref=e164]:
+              - generic [ref=e165]:
+                - generic [ref=e166]: Todas
+                - combobox "Selected Todas. Prioridad" [ref=e168]
+              - img "open" [ref=e170]
+          - generic [ref=e259] [cursor=pointer]:
+            - checkbox "Solo con brecha > 0" [checked]
+            - paragraph [ref=e264]: Solo con brecha > 0
+        - generic [ref=e265]:
+          - paragraph [ref=e269]: Buscar producto (SKU o nombre)
+          - textbox "Buscar producto (SKU o nombre)" [ref=e272]:
+            - /placeholder: "Ej: PERSPIREX o 7750187005097"
+        - paragraph [ref=e182]: Ordenado por mayor brecha de ingreso (USD), luego por mayor % no monetizada.
+        - generic [ref=e276]:
+          - button "Show/hide columns" [ref=e280] [cursor=pointer]:
+            - img [ref=e281]
+          - button "Download as CSV" [ref=e286] [cursor=pointer]:
+            - img [ref=e287]
+          - button "Search" [ref=e292] [cursor=pointer]:
+            - img [ref=e293]
+          - button "Fullscreen" [ref=e298] [cursor=pointer]:
+            - img [ref=e299]
+        - generic [ref=e311]:
+          - tablist [ref=e313]:
+            - tab "Composición y brecha por producto" [selected] [ref=e314] [cursor=pointer]:
+              - paragraph [ref=e316]: Composición y brecha por producto
+            - tab "Tendencia mensual" [ref=e317] [cursor=pointer]:
+              - paragraph [ref=e319]: Tendencia mensual
+          - tabpanel "Composición y brecha por producto" [ref=e322]:
+            - generic [ref=e325]:
+              - generic [ref=e327]:
+                - heading "Composición de ingresos" [level=3] [ref=e337]:
+                  - text: Composición de ingresos
+                  - generic [ref=e338]:
+                    - link "Link to heading":
+                      - /url: "#composicion-de-ingresos"
+                      - img
+                - generic [ref=e482]:
+                  - img:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Ingreso total por mercancía pagada99.2%
+                        - generic:
+                          - generic:
+                            - generic: Ingreso que debió lograrse por promociones0.846%
+                  - img:
+                    - generic [ref=e488]:
+                      - generic [ref=e490]: Ingreso total por mercancía pagada
+                      - generic [ref=e497]: Ingreso que debió lograrse por promociones
+                  - toolbar [ref=e503]:
+                    - button "Download plot as a PNG" [ref=e505] [cursor=pointer]:
+                      - img [ref=e506]
+                    - button "Fullscreen" [ref=e509] [cursor=pointer]:
+                      - img [ref=e510]
+                  - img
+              - generic [ref=e375]:
+                - heading "Top productos por brecha" [level=3] [ref=e385]:
+                  - text: Top productos por brecha
+                  - generic [ref=e386]:
+                    - link "Link to heading":
+                      - /url: "#top-productos-por-brecha"
+                      - img
+                - generic [ref=e517]:
+                  - img:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: ANTHEMIS TALCO 120GR
+                          - generic:
+                            - generic: LOCIÓN ANTITRANSPIRANTE 200ML
+                          - generic:
+                            - generic: FLUIDBASE REDERM LOCIÓN AHA|10%
+                          - generic:
+                            - generic: GENOCUTÁN GEL DERMATOLÓGICO|500ML
+                          - generic:
+                            - generic: MINOXIDIL 2,5MG+FINASTERIDE 2,5MG CAPS
+                        - generic:
+                          - generic:
+                            - generic: "0"
+                          - generic:
+                            - generic: "50"
+                          - generic:
+                            - generic: "100"
+                          - generic:
+                            - generic: "150"
+                  - img:
+                    - generic:
+                      - generic [ref=e533]:
+                        - generic [ref=e534]: estado_brecha
+                        - generic [ref=e537]: Brecha positiva
+                      - generic:
+                        - generic: Producto
+                      - generic:
+                        - generic: Brecha USD
+                  - toolbar [ref=e543]:
+                    - button "Download plot as a PNG" [ref=e545] [cursor=pointer]:
+                      - img [ref=e546]
+                    - generic [ref=e548]:
+                      - button "Zoom" [ref=e549] [cursor=pointer]:
+                        - img [ref=e550]
+                      - button "Pan" [ref=e552] [cursor=pointer]:
+                        - img [ref=e553]
+                    - generic [ref=e555]:
+                      - button "Zoom in" [ref=e556] [cursor=pointer]:
+                        - img [ref=e557]
+                      - button "Zoom out" [ref=e559] [cursor=pointer]:
+                        - img [ref=e560]
+                      - button "Autoscale" [ref=e562] [cursor=pointer]:
+                        - img [ref=e563]
+                      - button "Reset axes" [ref=e565] [cursor=pointer]:
+                        - img [ref=e566]
+                    - button "Fullscreen" [ref=e569] [cursor=pointer]:
+                      - img [ref=e570]
+                  - img
+        - paragraph [ref=e451]:
+          - text: "Periodo: Todo 2025 | Ventas:"
+          - code [ref=e452]: /home/jus/Desktop/scrapingSRI-SnrFadia/data/processed/facturas_2025_detalles.csv
+          - text: "| Compras:"
+          - code [ref=e453]: /home/jus/Desktop/scrapingSRI-SnrFadia/data/processed/compras_2025_detalles.csv
+          - text: "| Registros mostrados: 556"
+    - list [ref=e575]:
+      - generic [ref=e577]:
+        - option "Claro" [ref=e578] [cursor=pointer]:
+          - generic [ref=e582]: Claro
+        - option "Oscuro" [selected] [ref=e583] [cursor=pointer]:
+          - generic [ref=e587]: Oscuro
+  - img [ref=e454]

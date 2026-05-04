@@ -1,0 +1,834 @@
+- generic [ref=e4]:
+  - text:   
+  - generic [ref=e523]:
+    - generic [ref=e528]:
+      - button "arrow round-back" [ref=e530] [cursor=pointer]:
+        - img "arrow round-back" [ref=e532]: 
+      - generic [ref=e535]: Compras
+      - generic [ref=e536]:
+        - button "filing Reporte" [ref=e537] [cursor=pointer]:
+          - generic [ref=e538]:
+            - img "filing": 
+            - text: Reporte
+        - button "document Nueva" [ref=e539] [cursor=pointer]:
+          - generic [ref=e540]:
+            - img "document": 
+            - text: Nueva
+    - generic [ref=e546]:
+      - generic [ref=e547]:
+        - generic [ref=e548]:
+          - img [ref=e550]
+          - generic [ref=e551]:
+            - generic [ref=e553]:
+              - heading "28 feb. 2025 9:35" [level=2] [ref=e554]
+              - paragraph [ref=e555]: ID# 7546
+            - generic [ref=e556]:
+              - paragraph [ref=e557]: TOTAL
+              - paragraph [ref=e558]:
+                - strong [ref=e559]: $
+                - text: "157.83"
+        - paragraph [ref=e564]: PENDIENTE
+        - generic [ref=e565]:
+          - paragraph [ref=e566]:
+            - strong [ref=e567]: "Doc Numero# :"
+            - text: "008020001333055"
+          - paragraph [ref=e568]:
+            - strong [ref=e569]: "Nombre :"
+            - text: QUIFATEX S.A.
+        - generic [ref=e571]:
+          - button "list Pagos" [ref=e573] [cursor=pointer]:
+            - generic [ref=e574]:
+              - img "list": 
+              - text: Pagos
+          - button "redo Devoluciones" [ref=e575] [cursor=pointer]:
+            - generic [ref=e576]:
+              - img "redo": 
+              - text: Devoluciones
+          - button "trash Borrar" [ref=e577] [cursor=pointer]:
+            - generic [ref=e578]:
+              - img "trash": 
+              - text: Borrar
+          - button "create Editar" [ref=e579] [cursor=pointer]:
+            - generic [ref=e580]:
+              - img "create": 
+              - text: Editar
+          - button "print" [ref=e581] [cursor=pointer]:
+            - generic [ref=e582]:
+              - img "print": 
+      - generic [ref=e583]:
+        - generic [ref=e584]:
+          - img [ref=e586]
+          - generic [ref=e587]:
+            - generic [ref=e589]:
+              - heading "5 feb. 2025 10:15" [level=2] [ref=e590]
+              - paragraph [ref=e591]: ID# 7240
+            - generic [ref=e592]:
+              - paragraph [ref=e593]: TOTAL
+              - paragraph [ref=e594]:
+                - strong [ref=e595]: $
+                - text: "108.16"
+        - paragraph [ref=e600]: PENDIENTE
+        - generic [ref=e601]:
+          - paragraph [ref=e602]:
+            - strong [ref=e603]: "Doc Numero# :"
+            - text: "001001000002715"
+          - paragraph [ref=e604]:
+            - strong [ref=e605]: "Nombre :"
+            - text: DEFAN S A
+        - generic [ref=e607]:
+          - button "list Pagos" [ref=e609] [cursor=pointer]:
+            - generic [ref=e610]:
+              - img "list": 
+              - text: Pagos
+          - button "redo Devoluciones" [ref=e611] [cursor=pointer]:
+            - generic [ref=e612]:
+              - img "redo": 
+              - text: Devoluciones
+          - button "trash Borrar" [ref=e613] [cursor=pointer]:
+            - generic [ref=e614]:
+              - img "trash": 
+              - text: Borrar
+          - button "create Editar" [ref=e615] [cursor=pointer]:
+            - generic [ref=e616]:
+              - img "create": 
+              - text: Editar
+          - button "print" [ref=e617] [cursor=pointer]:
+            - generic [ref=e618]:
+              - img "print": 
+      - generic [ref=e619]:
+        - generic [ref=e620]:
+          - img [ref=e622]
+          - generic [ref=e623]:
+            - generic [ref=e625]:
+              - heading "21 ene. 2025 13:22" [level=2] [ref=e626]
+              - paragraph [ref=e627]: ID# 7086
+            - generic [ref=e628]:
+              - paragraph [ref=e629]: TOTAL
+              - paragraph [ref=e630]:
+                - strong [ref=e631]: $
+                - text: "476.87"
+        - paragraph [ref=e636]: PENDIENTE
+        - generic [ref=e637]:
+          - paragraph [ref=e638]:
+            - strong [ref=e639]: "Doc Numero# :"
+            - text: "001999000126074"
+          - paragraph [ref=e640]:
+            - strong [ref=e641]: "Nombre :"
+            - text: Industria de belleza y salud B.A.S.S.A. C. LTDA.
+        - generic [ref=e643]:
+          - button "list Pagos" [ref=e645] [cursor=pointer]:
+            - generic [ref=e646]:
+              - img "list": 
+              - text: Pagos
+          - button "redo Devoluciones" [ref=e647] [cursor=pointer]:
+            - generic [ref=e648]:
+              - img "redo": 
+              - text: Devoluciones
+          - button "trash Borrar" [ref=e649] [cursor=pointer]:
+            - generic [ref=e650]:
+              - img "trash": 
+              - text: Borrar
+          - button "create Editar" [ref=e651] [cursor=pointer]:
+            - generic [ref=e652]:
+              - img "create": 
+              - text: Editar
+          - button "print" [ref=e653] [cursor=pointer]:
+            - generic [ref=e654]:
+              - img "print": 
+      - generic [ref=e655]:
+        - generic [ref=e656]:
+          - img [ref=e658]
+          - generic [ref=e659]:
+            - generic [ref=e661]:
+              - heading "16 ene. 2025 13:12" [level=2] [ref=e662]
+              - paragraph [ref=e663]: ID# 7085
+            - generic [ref=e664]:
+              - paragraph [ref=e665]: TOTAL
+              - paragraph [ref=e666]:
+                - strong [ref=e667]: $
+                - text: "449.41"
+        - paragraph [ref=e672]: PENDIENTE
+        - generic [ref=e673]:
+          - paragraph [ref=e674]:
+            - strong [ref=e675]: "Doc Numero# :"
+            - text: "002102001520219"
+          - paragraph [ref=e676]:
+            - strong [ref=e677]: "Nombre :"
+            - text: LETERAGO DEL ECUADOR S.A.
+        - generic [ref=e679]:
+          - button "list Pagos" [ref=e681] [cursor=pointer]:
+            - generic [ref=e682]:
+              - img "list": 
+              - text: Pagos
+          - button "redo Devoluciones" [ref=e683] [cursor=pointer]:
+            - generic [ref=e684]:
+              - img "redo": 
+              - text: Devoluciones
+          - button "trash Borrar" [ref=e685] [cursor=pointer]:
+            - generic [ref=e686]:
+              - img "trash": 
+              - text: Borrar
+          - button "create Editar" [ref=e687] [cursor=pointer]:
+            - generic [ref=e688]:
+              - img "create": 
+              - text: Editar
+          - button "print" [ref=e689] [cursor=pointer]:
+            - generic [ref=e690]:
+              - img "print": 
+      - generic [ref=e691]:
+        - generic [ref=e692]:
+          - img [ref=e694]
+          - generic [ref=e695]:
+            - generic [ref=e697]:
+              - heading "15 ene. 2025 18:28" [level=2] [ref=e698]
+              - paragraph [ref=e699]: ID# 7079
+            - generic [ref=e700]:
+              - paragraph [ref=e701]: TOTAL
+              - paragraph [ref=e702]:
+                - strong [ref=e703]: $
+                - text: "155.02"
+        - paragraph [ref=e708]: PENDIENTE
+        - generic [ref=e709]:
+          - paragraph [ref=e710]:
+            - strong [ref=e711]: "Doc Numero# :"
+            - text: "002102001519192"
+          - paragraph [ref=e712]:
+            - strong [ref=e713]: "Nombre :"
+            - text: LETERAGO DEL ECUADOR S.A.
+        - generic [ref=e715]:
+          - button "list Pagos" [ref=e717] [cursor=pointer]:
+            - generic [ref=e718]:
+              - img "list": 
+              - text: Pagos
+          - button "redo Devoluciones" [ref=e719] [cursor=pointer]:
+            - generic [ref=e720]:
+              - img "redo": 
+              - text: Devoluciones
+          - button "trash Borrar" [ref=e721] [cursor=pointer]:
+            - generic [ref=e722]:
+              - img "trash": 
+              - text: Borrar
+          - button "create Editar" [ref=e723] [cursor=pointer]:
+            - generic [ref=e724]:
+              - img "create": 
+              - text: Editar
+          - button "print" [ref=e725] [cursor=pointer]:
+            - generic [ref=e726]:
+              - img "print": 
+      - generic [ref=e727]:
+        - generic [ref=e728]:
+          - img [ref=e730]
+          - generic [ref=e731]:
+            - generic [ref=e733]:
+              - heading "15 ene. 2025 17:13" [level=2] [ref=e734]
+              - paragraph [ref=e735]: ID# 7077
+            - generic [ref=e736]:
+              - paragraph [ref=e737]: TOTAL
+              - paragraph [ref=e738]:
+                - strong [ref=e739]: $
+                - text: "12.58"
+        - paragraph [ref=e744]: PENDIENTE
+        - generic [ref=e745]:
+          - paragraph [ref=e746]:
+            - strong [ref=e747]: "Doc Numero# :"
+            - text: "292003000595925"
+          - paragraph [ref=e748]:
+            - strong [ref=e749]: "Nombre :"
+            - text: SANTA MARTHA
+        - generic [ref=e751]:
+          - button "list Pagos" [ref=e753] [cursor=pointer]:
+            - generic [ref=e754]:
+              - img "list": 
+              - text: Pagos
+          - button "redo Devoluciones" [ref=e755] [cursor=pointer]:
+            - generic [ref=e756]:
+              - img "redo": 
+              - text: Devoluciones
+          - button "trash Borrar" [ref=e757] [cursor=pointer]:
+            - generic [ref=e758]:
+              - img "trash": 
+              - text: Borrar
+          - button "create Editar" [ref=e759] [cursor=pointer]:
+            - generic [ref=e760]:
+              - img "create": 
+              - text: Editar
+          - button "print" [ref=e761] [cursor=pointer]:
+            - generic [ref=e762]:
+              - img "print": 
+      - generic [ref=e763]:
+        - generic [ref=e764]:
+          - img [ref=e766]
+          - generic [ref=e767]:
+            - generic [ref=e769]:
+              - heading "20 ene. 2025 9:11" [level=2] [ref=e770]
+              - paragraph [ref=e771]: ID# 7072
+            - generic [ref=e772]:
+              - paragraph [ref=e773]: TOTAL
+              - paragraph [ref=e774]:
+                - strong [ref=e775]: $
+                - text: "104.65"
+        - paragraph [ref=e780]: PENDIENTE
+        - generic [ref=e781]:
+          - paragraph [ref=e782]:
+            - strong [ref=e783]: "Doc Numero# :"
+            - text: "002102001520921"
+          - paragraph [ref=e784]:
+            - strong [ref=e785]: "Nombre :"
+            - text: LETERAGO DEL ECUADOR S.A.
+        - generic [ref=e787]:
+          - button "list Pagos" [ref=e789] [cursor=pointer]:
+            - generic [ref=e790]:
+              - img "list": 
+              - text: Pagos
+          - button "redo Devoluciones" [ref=e791] [cursor=pointer]:
+            - generic [ref=e792]:
+              - img "redo": 
+              - text: Devoluciones
+          - button "trash Borrar" [ref=e793] [cursor=pointer]:
+            - generic [ref=e794]:
+              - img "trash": 
+              - text: Borrar
+          - button "create Editar" [ref=e795] [cursor=pointer]:
+            - generic [ref=e796]:
+              - img "create": 
+              - text: Editar
+          - button "print" [ref=e797] [cursor=pointer]:
+            - generic [ref=e798]:
+              - img "print": 
+      - generic [ref=e799]:
+        - generic [ref=e800]:
+          - img [ref=e802]
+          - generic [ref=e803]:
+            - generic [ref=e805]:
+              - heading "20 ene. 2025 14:41" [level=2] [ref=e806]
+              - paragraph [ref=e807]: ID# 7052
+            - generic [ref=e808]:
+              - paragraph [ref=e809]: TOTAL
+              - paragraph [ref=e810]:
+                - strong [ref=e811]: $
+                - text: "184.23"
+        - paragraph [ref=e816]: PENDIENTE
+        - generic [ref=e817]:
+          - paragraph [ref=e818]:
+            - strong [ref=e819]: "Doc Numero# :"
+            - text: "002102001520851"
+          - paragraph [ref=e820]:
+            - strong [ref=e821]: "Nombre :"
+            - text: LETERAGO DEL ECUADOR S.A.
+        - generic [ref=e823]:
+          - button "list Pagos" [ref=e825] [cursor=pointer]:
+            - generic [ref=e826]:
+              - img "list": 
+              - text: Pagos
+          - button "redo Devoluciones" [ref=e827] [cursor=pointer]:
+            - generic [ref=e828]:
+              - img "redo": 
+              - text: Devoluciones
+          - button "trash Borrar" [ref=e829] [cursor=pointer]:
+            - generic [ref=e830]:
+              - img "trash": 
+              - text: Borrar
+          - button "create Editar" [ref=e831] [cursor=pointer]:
+            - generic [ref=e832]:
+              - img "create": 
+              - text: Editar
+          - button "print" [ref=e833] [cursor=pointer]:
+            - generic [ref=e834]:
+              - img "print": 
+      - generic [ref=e835]:
+        - generic [ref=e836]:
+          - img [ref=e838]
+          - generic [ref=e839]:
+            - generic [ref=e841]:
+              - heading "15 ene. 2025 11:58" [level=2] [ref=e842]
+              - paragraph [ref=e843]: ID# 7034
+            - generic [ref=e844]:
+              - paragraph [ref=e845]: TOTAL
+              - paragraph [ref=e846]:
+                - strong [ref=e847]: $
+                - text: "390.54"
+        - paragraph [ref=e852]: PENDIENTE
+        - generic [ref=e853]:
+          - paragraph [ref=e854]:
+            - strong [ref=e855]: "Doc Numero# :"
+            - text: "002102001519187"
+          - paragraph [ref=e856]:
+            - strong [ref=e857]: "Nombre :"
+            - text: LETERAGO DEL ECUADOR S.A.
+        - generic [ref=e859]:
+          - button "list Pagos" [ref=e861] [cursor=pointer]:
+            - generic [ref=e862]:
+              - img "list": 
+              - text: Pagos
+          - button "redo Devoluciones" [ref=e863] [cursor=pointer]:
+            - generic [ref=e864]:
+              - img "redo": 
+              - text: Devoluciones
+          - button "trash Borrar" [ref=e865] [cursor=pointer]:
+            - generic [ref=e866]:
+              - img "trash": 
+              - text: Borrar
+          - button "create Editar" [ref=e867] [cursor=pointer]:
+            - generic [ref=e868]:
+              - img "create": 
+              - text: Editar
+          - button "print" [ref=e869] [cursor=pointer]:
+            - generic [ref=e870]:
+              - img "print": 
+      - generic [ref=e871]:
+        - generic [ref=e872]:
+          - img [ref=e874]
+          - generic [ref=e875]:
+            - generic [ref=e877]:
+              - heading "17 ene. 2025 8:49" [level=2] [ref=e878]
+              - paragraph [ref=e879]: ID# 7029
+            - generic [ref=e880]:
+              - paragraph [ref=e881]: TOTAL
+              - paragraph [ref=e882]:
+                - strong [ref=e883]: $
+                - text: "683.58"
+        - paragraph [ref=e888]: PENDIENTE
+        - generic [ref=e889]:
+          - paragraph [ref=e890]:
+            - strong [ref=e891]: "Doc Numero# :"
+            - text: "002102001520619"
+          - paragraph [ref=e892]:
+            - strong [ref=e893]: "Nombre :"
+            - text: LETERAGO DEL ECUADOR S.A.
+        - generic [ref=e895]:
+          - button "list Pagos" [ref=e897] [cursor=pointer]:
+            - generic [ref=e898]:
+              - img "list": 
+              - text: Pagos
+          - button "redo Devoluciones" [ref=e899] [cursor=pointer]:
+            - generic [ref=e900]:
+              - img "redo": 
+              - text: Devoluciones
+          - button "trash Borrar" [ref=e901] [cursor=pointer]:
+            - generic [ref=e902]:
+              - img "trash": 
+              - text: Borrar
+          - button "create Editar" [ref=e903] [cursor=pointer]:
+            - generic [ref=e904]:
+              - img "create": 
+              - text: Editar
+          - button "print" [ref=e905] [cursor=pointer]:
+            - generic [ref=e906]:
+              - img "print": 
+      - generic [ref=e907]:
+        - generic [ref=e908]:
+          - img [ref=e910]
+          - generic [ref=e911]:
+            - generic [ref=e913]:
+              - heading "17 ene. 2025 8:40" [level=2] [ref=e914]
+              - paragraph [ref=e915]: ID# 7028
+            - generic [ref=e916]:
+              - paragraph [ref=e917]: TOTAL
+              - paragraph [ref=e918]:
+                - strong [ref=e919]: $
+                - text: "466.26"
+        - paragraph [ref=e924]: PENDIENTE
+        - generic [ref=e925]:
+          - paragraph [ref=e926]:
+            - strong [ref=e927]: "Doc Numero# :"
+            - text: "002102001520527"
+          - paragraph [ref=e928]:
+            - strong [ref=e929]: "Nombre :"
+            - text: LETERAGO DEL ECUADOR S.A.
+        - generic [ref=e931]:
+          - button "list Pagos" [ref=e933] [cursor=pointer]:
+            - generic [ref=e934]:
+              - img "list": 
+              - text: Pagos
+          - button "redo Devoluciones" [ref=e935] [cursor=pointer]:
+            - generic [ref=e936]:
+              - img "redo": 
+              - text: Devoluciones
+          - button "trash Borrar" [ref=e937] [cursor=pointer]:
+            - generic [ref=e938]:
+              - img "trash": 
+              - text: Borrar
+          - button "create Editar" [ref=e939] [cursor=pointer]:
+            - generic [ref=e940]:
+              - img "create": 
+              - text: Editar
+          - button "print" [ref=e941] [cursor=pointer]:
+            - generic [ref=e942]:
+              - img "print": 
+      - generic [ref=e943]:
+        - generic [ref=e944]:
+          - img [ref=e946]
+          - generic [ref=e947]:
+            - generic [ref=e949]:
+              - heading "16 ene. 2025 13:30" [level=2] [ref=e950]
+              - paragraph [ref=e951]: ID# 6988
+            - generic [ref=e952]:
+              - paragraph [ref=e953]: TOTAL
+              - paragraph [ref=e954]:
+                - strong [ref=e955]: $
+                - text: "111.1"
+        - paragraph [ref=e960]: PENDIENTE
+        - generic [ref=e961]:
+          - paragraph [ref=e962]:
+            - strong [ref=e963]: "Doc Numero# :"
+            - text: "002102001520154"
+          - paragraph [ref=e964]:
+            - strong [ref=e965]: "Nombre :"
+            - text: LETERAGO DEL ECUADOR S.A.
+        - generic [ref=e967]:
+          - button "list Pagos" [ref=e969] [cursor=pointer]:
+            - generic [ref=e970]:
+              - img "list": 
+              - text: Pagos
+          - button "redo Devoluciones" [ref=e971] [cursor=pointer]:
+            - generic [ref=e972]:
+              - img "redo": 
+              - text: Devoluciones
+          - button "trash Borrar" [ref=e973] [cursor=pointer]:
+            - generic [ref=e974]:
+              - img "trash": 
+              - text: Borrar
+          - button "create Editar" [ref=e975] [cursor=pointer]:
+            - generic [ref=e976]:
+              - img "create": 
+              - text: Editar
+          - button "print" [ref=e977] [cursor=pointer]:
+            - generic [ref=e978]:
+              - img "print": 
+      - generic [ref=e979]:
+        - generic [ref=e980]:
+          - img [ref=e982]
+          - generic [ref=e983]:
+            - generic [ref=e985]:
+              - heading "14 ene. 2025 19:08" [level=2] [ref=e986]
+              - paragraph [ref=e987]: ID# 6967
+            - generic [ref=e988]:
+              - paragraph [ref=e989]: TOTAL
+              - paragraph [ref=e990]:
+                - strong [ref=e991]: $
+                - text: "102.5"
+        - paragraph [ref=e996]: PENDIENTE
+        - generic [ref=e997]:
+          - paragraph [ref=e998]:
+            - strong [ref=e999]: "Doc Numero# :"
+            - text: "094007001643626"
+          - paragraph [ref=e1000]:
+            - strong [ref=e1001]: "Nombre :"
+            - text: FARMAENLACE CIA. LTDA
+        - generic [ref=e1003]:
+          - button "list Pagos" [ref=e1005] [cursor=pointer]:
+            - generic [ref=e1006]:
+              - img "list": 
+              - text: Pagos
+          - button "redo Devoluciones" [ref=e1007] [cursor=pointer]:
+            - generic [ref=e1008]:
+              - img "redo": 
+              - text: Devoluciones
+          - button "trash Borrar" [ref=e1009] [cursor=pointer]:
+            - generic [ref=e1010]:
+              - img "trash": 
+              - text: Borrar
+          - button "create Editar" [ref=e1011] [cursor=pointer]:
+            - generic [ref=e1012]:
+              - img "create": 
+              - text: Editar
+          - button "print" [ref=e1013] [cursor=pointer]:
+            - generic [ref=e1014]:
+              - img "print": 
+      - generic [ref=e1015]:
+        - generic [ref=e1016]:
+          - img [ref=e1018]
+          - generic [ref=e1019]:
+            - generic [ref=e1021]:
+              - heading "8 ene. 2025 9:16" [level=2] [ref=e1022]
+              - paragraph [ref=e1023]: ID# 6947
+            - generic [ref=e1024]:
+              - paragraph [ref=e1025]: TOTAL
+              - paragraph [ref=e1026]:
+                - strong [ref=e1027]: $
+                - text: "363.31"
+        - paragraph [ref=e1032]: PENDIENTE
+        - generic [ref=e1033]:
+          - paragraph [ref=e1034]:
+            - strong [ref=e1035]: "Doc Numero# :"
+            - text: "001005000016443"
+          - paragraph [ref=e1036]:
+            - strong [ref=e1037]: "Nombre :"
+            - text: BUSINESS MANUFACTURING COMPANY DEL ECUADOR S.A. BUSINESSMANUFACT
+        - generic [ref=e1039]:
+          - button "list Pagos" [ref=e1041] [cursor=pointer]:
+            - generic [ref=e1042]:
+              - img "list": 
+              - text: Pagos
+          - button "redo Devoluciones" [ref=e1043] [cursor=pointer]:
+            - generic [ref=e1044]:
+              - img "redo": 
+              - text: Devoluciones
+          - button "trash Borrar" [ref=e1045] [cursor=pointer]:
+            - generic [ref=e1046]:
+              - img "trash": 
+              - text: Borrar
+          - button "create Editar" [ref=e1047] [cursor=pointer]:
+            - generic [ref=e1048]:
+              - img "create": 
+              - text: Editar
+          - button "print" [ref=e1049] [cursor=pointer]:
+            - generic [ref=e1050]:
+              - img "print": 
+      - generic [ref=e1051]:
+        - generic [ref=e1052]:
+          - img [ref=e1054]
+          - generic [ref=e1055]:
+            - generic [ref=e1057]:
+              - heading "9 ene. 2025 9:08" [level=2] [ref=e1058]
+              - paragraph [ref=e1059]: ID# 6946
+            - generic [ref=e1060]:
+              - paragraph [ref=e1061]: TOTAL
+              - paragraph [ref=e1062]:
+                - strong [ref=e1063]: $
+                - text: "465.02"
+        - paragraph [ref=e1068]: PENDIENTE
+        - generic [ref=e1069]:
+          - paragraph [ref=e1070]:
+            - strong [ref=e1071]: "Doc Numero# :"
+            - text: "008020001314241"
+          - paragraph [ref=e1072]:
+            - strong [ref=e1073]: "Nombre :"
+            - text: QUIFATEX S.A.
+        - generic [ref=e1075]:
+          - button "list Pagos" [ref=e1077] [cursor=pointer]:
+            - generic [ref=e1078]:
+              - img "list": 
+              - text: Pagos
+          - button "redo Devoluciones" [ref=e1079] [cursor=pointer]:
+            - generic [ref=e1080]:
+              - img "redo": 
+              - text: Devoluciones
+          - button "trash Borrar" [ref=e1081] [cursor=pointer]:
+            - generic [ref=e1082]:
+              - img "trash": 
+              - text: Borrar
+          - button "create Editar" [ref=e1083] [cursor=pointer]:
+            - generic [ref=e1084]:
+              - img "create": 
+              - text: Editar
+          - button "print" [ref=e1085] [cursor=pointer]:
+            - generic [ref=e1086]:
+              - img "print": 
+      - generic [ref=e1087]:
+        - generic [ref=e1088]:
+          - img [ref=e1090]
+          - generic [ref=e1091]:
+            - generic [ref=e1093]:
+              - heading "7 ene. 2025 12:19" [level=2] [ref=e1094]
+              - paragraph [ref=e1095]: ID# 6934
+            - generic [ref=e1096]:
+              - paragraph [ref=e1097]: TOTAL
+              - paragraph [ref=e1098]:
+                - strong [ref=e1099]: $
+                - text: "292.49"
+        - paragraph [ref=e1104]: PENDIENTE
+        - generic [ref=e1105]:
+          - paragraph [ref=e1106]:
+            - strong [ref=e1107]: "Doc Numero# :"
+            - text: "008020001313369"
+          - paragraph [ref=e1108]:
+            - strong [ref=e1109]: "Nombre :"
+            - text: QUIFATEX S.A.
+        - generic [ref=e1111]:
+          - button "list Pagos" [ref=e1113] [cursor=pointer]:
+            - generic [ref=e1114]:
+              - img "list": 
+              - text: Pagos
+          - button "redo Devoluciones" [ref=e1115] [cursor=pointer]:
+            - generic [ref=e1116]:
+              - img "redo": 
+              - text: Devoluciones
+          - button "trash Borrar" [ref=e1117] [cursor=pointer]:
+            - generic [ref=e1118]:
+              - img "trash": 
+              - text: Borrar
+          - button "create Editar" [ref=e1119] [cursor=pointer]:
+            - generic [ref=e1120]:
+              - img "create": 
+              - text: Editar
+          - button "print" [ref=e1121] [cursor=pointer]:
+            - generic [ref=e1122]:
+              - img "print": 
+      - generic [ref=e1123]:
+        - generic [ref=e1124]:
+          - img [ref=e1126]
+          - generic [ref=e1127]:
+            - generic [ref=e1129]:
+              - heading "8 ene. 2025 12:11" [level=2] [ref=e1130]
+              - paragraph [ref=e1131]: ID# 6933
+            - generic [ref=e1132]:
+              - paragraph [ref=e1133]: TOTAL
+              - paragraph [ref=e1134]:
+                - strong [ref=e1135]: $
+                - text: "219.88"
+        - paragraph [ref=e1140]: PENDIENTE
+        - generic [ref=e1141]:
+          - paragraph [ref=e1142]:
+            - strong [ref=e1143]: "Doc Numero# :"
+            - text: "001008000000964"
+          - paragraph [ref=e1144]:
+            - strong [ref=e1145]: "Nombre :"
+            - text: SERVILUC SA
+        - generic [ref=e1147]:
+          - button "list Pagos" [ref=e1149] [cursor=pointer]:
+            - generic [ref=e1150]:
+              - img "list": 
+              - text: Pagos
+          - button "redo Devoluciones" [ref=e1151] [cursor=pointer]:
+            - generic [ref=e1152]:
+              - img "redo": 
+              - text: Devoluciones
+          - button "trash Borrar" [ref=e1153] [cursor=pointer]:
+            - generic [ref=e1154]:
+              - img "trash": 
+              - text: Borrar
+          - button "create Editar" [ref=e1155] [cursor=pointer]:
+            - generic [ref=e1156]:
+              - img "create": 
+              - text: Editar
+          - button "print" [ref=e1157] [cursor=pointer]:
+            - generic [ref=e1158]:
+              - img "print": 
+      - generic [ref=e1159]:
+        - generic [ref=e1160]:
+          - img [ref=e1162]
+          - generic [ref=e1163]:
+            - generic [ref=e1165]:
+              - heading "6 ene. 2025 22:01" [level=2] [ref=e1166]
+              - paragraph [ref=e1167]: ID# 6912
+            - generic [ref=e1168]:
+              - paragraph [ref=e1169]: TOTAL
+              - paragraph [ref=e1170]:
+                - strong [ref=e1171]: $
+                - text: "97.09"
+        - paragraph [ref=e1176]: PENDIENTE
+        - generic [ref=e1177]:
+          - paragraph [ref=e1178]:
+            - strong [ref=e1179]: "Doc Numero# :"
+            - text: "008020001312682"
+          - paragraph [ref=e1180]:
+            - strong [ref=e1181]: "Nombre :"
+            - text: QUIFATEX S.A.
+        - generic [ref=e1183]:
+          - button "list Pagos" [ref=e1185] [cursor=pointer]:
+            - generic [ref=e1186]:
+              - img "list": 
+              - text: Pagos
+          - button "redo Devoluciones" [ref=e1187] [cursor=pointer]:
+            - generic [ref=e1188]:
+              - img "redo": 
+              - text: Devoluciones
+          - button "trash Borrar" [ref=e1189] [cursor=pointer]:
+            - generic [ref=e1190]:
+              - img "trash": 
+              - text: Borrar
+          - button "create Editar" [ref=e1191] [cursor=pointer]:
+            - generic [ref=e1192]:
+              - img "create": 
+              - text: Editar
+          - button "print" [ref=e1193] [cursor=pointer]:
+            - generic [ref=e1194]:
+              - img "print": 
+      - generic [ref=e1195]:
+        - generic [ref=e1196]:
+          - img [ref=e1198]
+          - generic [ref=e1199]:
+            - generic [ref=e1201]:
+              - heading "18 dic. 2024 17:33" [level=2] [ref=e1202]
+              - paragraph [ref=e1203]: ID# 6794
+            - generic [ref=e1204]:
+              - paragraph [ref=e1205]: TOTAL
+              - paragraph [ref=e1206]:
+                - strong [ref=e1207]: $
+                - text: "10.7"
+        - paragraph [ref=e1212]: PENDIENTE
+        - generic [ref=e1213]:
+          - paragraph [ref=e1214]:
+            - strong [ref=e1215]: "Doc Numero# :"
+            - text: "292003000589794"
+          - paragraph [ref=e1216]:
+            - strong [ref=e1217]: "Nombre :"
+            - text: SANTA MARTHA
+        - generic [ref=e1219]:
+          - button "list Pagos" [ref=e1221] [cursor=pointer]:
+            - generic [ref=e1222]:
+              - img "list": 
+              - text: Pagos
+          - button "redo Devoluciones" [ref=e1223] [cursor=pointer]:
+            - generic [ref=e1224]:
+              - img "redo": 
+              - text: Devoluciones
+          - button "trash Borrar" [ref=e1225] [cursor=pointer]:
+            - generic [ref=e1226]:
+              - img "trash": 
+              - text: Borrar
+          - button "create Editar" [ref=e1227] [cursor=pointer]:
+            - generic [ref=e1228]:
+              - img "create": 
+              - text: Editar
+          - button "print" [ref=e1229] [cursor=pointer]:
+            - generic [ref=e1230]:
+              - img "print": 
+      - generic [ref=e1231]:
+        - generic [ref=e1232]:
+          - img [ref=e1234]
+          - generic [ref=e1235]:
+            - generic [ref=e1237]:
+              - heading "17 dic. 2024 14:04" [level=2] [ref=e1238]
+              - paragraph [ref=e1239]: ID# 6788
+            - generic [ref=e1240]:
+              - paragraph [ref=e1241]: TOTAL
+              - paragraph [ref=e1242]:
+                - strong [ref=e1243]: $
+                - text: "197"
+        - paragraph [ref=e1248]: PENDIENTE
+        - generic [ref=e1249]:
+          - paragraph [ref=e1250]:
+            - strong [ref=e1251]: "Doc Numero# :"
+            - text: "001001000000022"
+          - paragraph [ref=e1252]:
+            - strong [ref=e1253]: "Nombre :"
+            - text: SANTANA VALAREZO PAMELA LORENA
+        - generic [ref=e1255]:
+          - button "list Pagos" [ref=e1257] [cursor=pointer]:
+            - generic [ref=e1258]:
+              - img "list": 
+              - text: Pagos
+          - button "redo Devoluciones" [ref=e1259] [cursor=pointer]:
+            - generic [ref=e1260]:
+              - img "redo": 
+              - text: Devoluciones
+          - button "trash Borrar" [ref=e1261] [cursor=pointer]:
+            - generic [ref=e1262]:
+              - img "trash": 
+              - text: Borrar
+          - button "create Editar" [ref=e1263] [cursor=pointer]:
+            - generic [ref=e1264]:
+              - img "create": 
+              - text: Editar
+          - button "print" [ref=e1265] [cursor=pointer]:
+            - generic [ref=e1266]:
+              - img "print": 
+    - generic [ref=e1267]:
+      - generic [ref=e1271]:
+        - button "calendar" [ref=e1273] [cursor=pointer]:
+          - img "calendar" [ref=e1275]: 
+        - generic [ref=e1277]:
+          - generic [ref=e1278]: 03/05/2026
+          - button [ref=e1279] [cursor=pointer]
+        - generic [ref=e1281]:
+          - generic:
+            - button "arrow dropleft-circle" [disabled]:
+              - img "arrow dropleft-circle": 
+            - text: 1/2
+            - button "arrow dropright-circle" [ref=e1282] [cursor=pointer]:
+              - img "arrow dropright-circle" [ref=e1283]: 
+      - generic [ref=e1290]:
+        - text: 
+        - searchbox "Buscar" [ref=e1292]

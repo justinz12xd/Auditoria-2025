@@ -1,0 +1,36 @@
+- generic [ref=e4]:
+  - text:                                                                                                              
+  - generic [ref=e1293]:
+    - generic [ref=e1298]:
+      - generic [ref=e1301]: Descargar reporte compras
+      - button "close" [ref=e1303] [cursor=pointer]:
+        - img "close" [ref=e1305]: 
+    - generic [ref=e1316]:
+      - img [ref=e1317]
+      - alert [ref=e1318]: Reporte con el listado de compras realizadas entre fechas.
+      - radiogroup [ref=e1319]:
+        - generic [ref=e1321]:
+          - generic [ref=e1323]: PDF
+          - radio "PDF" [checked] [ref=e1327] [cursor=pointer]
+        - generic [ref=e1330]:
+          - generic [ref=e1332]: EXCEL
+          - radio "EXCEL" [ref=e1335] [cursor=pointer]
+      - generic [ref=e1337]:
+        - generic [ref=e1338]:
+          - generic [ref=e1340]:
+            - generic [ref=e1341]: Domingo, 03 de Mayo del 2026
+            - button [ref=e1342] [cursor=pointer]
+          - button "calendar" [ref=e1345] [cursor=pointer]:
+            - img "calendar" [ref=e1347]: 
+        - generic [ref=e1348]:
+          - generic [ref=e1350]:
+            - generic [ref=e1351]: Domingo, 03 de Mayo del 2026
+            - button [ref=e1352] [cursor=pointer]
+          - button "calendar" [ref=e1355] [cursor=pointer]:
+            - img "calendar" [ref=e1357]: 
+      - generic [ref=e1359]:
+        - generic [ref=e1360]: Categorias
+        - button "apps" [ref=e1362] [cursor=pointer]:
+          - img "apps" [ref=e1364]: 
+      - button "Descargar" [ref=e1369] [cursor=pointer]:
+        - generic [ref=e1370]: Descargar
